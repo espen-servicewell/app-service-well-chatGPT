@@ -69,7 +69,7 @@ const Layout = () => {
                 <Stack horizontal verticalAlign="center" horizontalAlign="space-between">
                     <Stack horizontal verticalAlign="center">
                         <img
-                            src="/servicewell.png"
+                            src="/favicon.ico"
                             className={styles.headerIcon}
                             aria-hidden="true"
                         />
